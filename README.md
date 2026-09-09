@@ -3,7 +3,7 @@ This repository features a collection of tools designed to integrate with Cobalt
 
 Maintained by **Western Tactics**, these tools are open-sourced to help Red Teams build stronger defenses against evolving cyber threats.
 
-🌐 **Want to learn more? Discover our practical cyber security courses:** [westerntactics.com](https://westerntactics.com)
+🌐 **Learn more about Western Tactics:** [westerntactics.com](https://westerntactics.com)
 
 
 ## Kit content
